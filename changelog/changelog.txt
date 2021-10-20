@@ -1,6 +1,6 @@
 [~] changed, [-] removed, [+] added
 
 b2:
-+ exhibition cpae mode
++ exhibition cape mode
 ~ made 2d esp cleaner
 - useless esp modes
