@@ -9,3 +9,5 @@ b2:
 + exhibition watermark mode
 ~ made notifications smaller
 ~ changed notification animation
++ sneak module
++ blockyfont module: makes vanilla font blocky
