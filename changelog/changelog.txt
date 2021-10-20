@@ -4,3 +4,6 @@ b2:
 + exhibition cape mode
 ~ made 2d esp cleaner
 - useless esp modes
++ exhibition watermark mode
+~ made notifications smaller
+~ changed notification animation
