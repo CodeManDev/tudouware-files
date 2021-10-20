@@ -11,3 +11,4 @@ b2:
 ~ changed notification animation
 + sneak module
 + blockyfont module: makes vanilla font blocky
++ norules speed mode
