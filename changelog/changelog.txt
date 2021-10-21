@@ -5,6 +5,7 @@ b3:
 + added all hudelements to draggablehud
 + added funcraft speed mode
 ~ fixed norules speed using custom motiony value
++ added norules antivoid mode
 
 b2 hotfix 1:
 ~ fixed targetstrafe breaking
