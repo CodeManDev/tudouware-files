@@ -1,5 +1,8 @@
 [~] changed, [-] removed, [+] added
 
+b3:
++ draggablehud
+
 b2 hotfix 1:
 ~ fixed targetstrafe breaking
 + aded gradients to the clickgui
