@@ -2,6 +2,7 @@
 
 b3:
 + draggablehud
++ added all hudelements to draggablehud
 + added funcraft speed mode
 ~ fixed norules speed using custom motiony value
 
