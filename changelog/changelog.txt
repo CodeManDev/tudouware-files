@@ -1,5 +1,9 @@
 [~] changed, [-] removed, [+] added
 
+b2 hotfix 1:
+~ fixed targetstrafe breaking
++ aded gradients to the clickgui
+
 b2:
 + changelog in main menu
 + build check in main menu
