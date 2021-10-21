@@ -3,7 +3,7 @@
 b3:
 + draggablehud
 + added funcraft speed mode
-~ norules speed using custom motiony value
+~ fixed norules speed using custom motiony value
 
 b2 hotfix 1:
 ~ fixed targetstrafe breaking
