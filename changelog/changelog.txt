@@ -1,25 +1,30 @@
-[~] changed, [-] removed, [+] added
+[>] changed, [-] removed, [+] added
+
+b3.1:
+> fixed targetstrafe and autopot
+> general code and performance improvements
++ targetlist module (not finished)
 
 b3:
 + draggablehud
 + added all hudelements to draggablehud
 + added funcraft speed mode
-~ fixed norules speed using custom motiony value
+> fixed norules speed using custom motiony value
 + added norules antivoid mode
 
 b2 hotfix 1:
-~ fixed targetstrafe breaking
+> fixed targetstrafe breaking
 + aded gradients to the clickgui
 
 b2:
 + changelog in main menu
 + build check in main menu
 + exhibition cape mode
-~ made 2d esp cleaner
+> made 2d esp cleaner
 - useless esp modes
 + exhibition watermark mode
-~ made notifications smaller
-~ changed notification animation
+> made notifications smaller
+> changed notification animation
 + sneak module
 + blockyfont module: makes vanilla font blocky
 + norules speed mode
