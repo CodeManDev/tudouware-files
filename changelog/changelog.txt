@@ -6,6 +6,8 @@ b3.2:
 + added multiselect setting
 + added enchanteffect to cape
 + behind mode on targetstrafe
+> changed remix blockanimation
+> changed rendering of the targetstrafe circle
 
 b3.1:
 > fixed targetstrafe and autopot
