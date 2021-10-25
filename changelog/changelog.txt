@@ -1,5 +1,9 @@
 [>] changed, [-] removed, [+] added
 
+b3.2:
++ added arrowesp
++ added clickgui animation (shit)
+
 b3.1:
 > fixed targetstrafe and autopot
 > general code and performance improvements
