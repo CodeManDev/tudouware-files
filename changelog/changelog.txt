@@ -4,6 +4,7 @@ b3.2:
 + added arrowesp
 + added clickgui animation (shit)
 + added multiselect setting
++ added enchanteffect to cape
 
 b3.1:
 > fixed targetstrafe and autopot
