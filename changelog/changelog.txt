@@ -8,6 +8,7 @@ b3.2:
 + behind mode on targetstrafe
 > changed remix blockanimation
 > changed rendering of the targetstrafe circle
+> changed how criticals work
 
 b3.1:
 > fixed targetstrafe and autopot
