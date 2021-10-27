@@ -9,6 +9,8 @@ b3.2:
 > changed remix blockanimation
 > changed rendering of the targetstrafe circle
 > changed how criticals work
++ added ncp custom speed mode
++ added aura option in cheststealer
 
 b3.1:
 > fixed targetstrafe and autopot
