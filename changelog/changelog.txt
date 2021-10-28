@@ -11,6 +11,7 @@ b3.2:
 > changed how criticals work
 + added ncp custom speed mode
 + added aura option in cheststealer
++ added configmanager to clickgui
 
 b3.1:
 > fixed targetstrafe and autopot
